@@ -8,6 +8,7 @@ import {
   Author,
   Comments,
   CommentsForm,
+  Loader,
 } from "../../components";
 import { AdjacentPosts } from "../../sections";
 const PostDetails = ({ post }) => {
